@@ -7,7 +7,8 @@
         "name": "User is on home page of the Demo Web Shop and Login link is avaialble.",
         "description": "user has also clicked on the login link",
         "type": "background",
-        "keyword": "Background"
+        "keyword": "Background",
+        "steps": []
       },
       {
         "line": 6,
@@ -19,7 +20,7 @@
         "steps": [
           {
             "result": {
-              "duration": 30964691200,
+              "duration": 31573775600,
               "status": "passed"
             },
             "line": 7,
@@ -31,7 +32,7 @@
           },
           {
             "result": {
-              "duration": 2400637800,
+              "duration": 2290627100,
               "status": "passed"
             },
             "line": 8,
@@ -43,7 +44,7 @@
           },
           {
             "result": {
-              "duration": 3876911200,
+              "duration": 3950487700,
               "status": "passed"
             },
             "line": 9,
@@ -55,7 +56,7 @@
           },
           {
             "result": {
-              "duration": 1111665600,
+              "duration": 744363200,
               "status": "passed"
             },
             "line": 10,
@@ -68,7 +69,6 @@
         ],
         "tags": [
           {
-            "line": 5,
             "name": "@SuccessfulLogin"
           }
         ]
@@ -78,6 +78,7 @@
     "description": "",
     "id": "login",
     "keyword": "Feature",
-    "uri": "Login.feature"
+    "uri": "C:/Hima/java_capgemini/DemoWebShopMaven/src/test/java/features/Login.feature",
+    "tags": []
   }
 ]
